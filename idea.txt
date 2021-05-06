@@ -1,0 +1,12 @@
+a game where you have to take care of an ecosystem of your choice(Forest, Rainforest, Desert?)
+- starts off with plants which only need sunlight and water
+- perform actions; make it rain, sunny day...(more options the further you get)
+- time system. can perform 1 action per day and every 7 days the month changes.
+- diffrent months create diffrent weather 
+- log of the reactions of all the diffrent organisms towards the action to help the player make decsions
+- Save system??? (Probabaly not D: )
+- progressing gives you a wider array of animals to take care of
+- Animals eating each other (also in log)
+- colour to make game more vibrant
+- game fails if a certain animal is too dominative, also if number of animals (total) drops below 20% of the maximum it has ever reached
+

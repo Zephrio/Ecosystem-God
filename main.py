@@ -22,4 +22,21 @@ def clear():
     else: 
         _ = system('clear') 
 
+print(Colour("Welcome to short game to play if you're bored :D",Green))
+time.sleep(1.5)
+choice = int(input(Colour("To Continue and read the tutorial (1)\nTo skip the tutorial (2)\n :  ",Yellow)))
+if choice == 2:
+  pass
+else:
+  pass
+
+Enter_Continue()
+clear()
+
+
+
+
+  
+
+
   
